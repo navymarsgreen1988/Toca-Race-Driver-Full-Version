@@ -238,4 +238,4 @@ This repository serves as the official landing page for TOCA Race Driver. The so
 **Get the most recent version of TOCA Race Driver today!**
 
 ---
-**Last updated:** 2026-09-28 21:00:50 UTC
+**Last updated:** 2026-09-29 01:23:56 UTC
